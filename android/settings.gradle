@@ -1,0 +1,3 @@
+rootProject.name = 'styr_react_demo'
+
+include ':app'
